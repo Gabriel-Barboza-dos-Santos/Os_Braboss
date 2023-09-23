@@ -1,14 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
 *{
     padding: 0;
     margin: 0;
 }
 .wrapper{
-    background: url(bg-img.jpg) no-repeat;
+    background: url(bg2.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 }
 .navbar{
     height: 80px;
     width: 100%;
-    background:  rgba(0,0,0,0.4);
+    background:  rgba(0,0,0,0.8);
+}
+.logo3{
+    width: 80px;
+    height: auto;
+    padding: 20px 100px;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+navbar ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar ul li a.acvtive
+.navbar ul li a:hover{
+    background: red;
+    border-radius: 2px;
+
 }
