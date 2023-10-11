@@ -15,4 +15,4 @@ cep = '01008010'
 if validar_cep(cep):
     print("CEP válido!")
 else:
-     print("CEP inválido."
+     print("CEP inválido.")
