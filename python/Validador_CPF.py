@@ -2,7 +2,7 @@ import re
 import sys
 
 
-entrada = input('Digite seu CPF: ')
+entrada = input('Digite o CPF: ')
 cpf_enviado_usuario = re.sub(
     r'[^0-9]',
     '',
