@@ -1,4 +1,4 @@
-from interface import *
+from interface import * #import
 from random import choice
 from time import sleep
 
