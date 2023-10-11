@@ -24,4 +24,4 @@ cpf_gerado_pelo_calculo = f'{nove_digitos}{digito_1}{digito_2}'
 if cpf_enviado_usuario == cpf_gerado_pelo_calculo:
     print(f'{cpf_enviado_usuario} é válido')
 else:
-    print('CPF inválido')
+    print('CPF inválido') gasuoihoashs
