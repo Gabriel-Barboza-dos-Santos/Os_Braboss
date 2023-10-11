@@ -15,3 +15,5 @@ before_install:
 
 script:
  - python matheusferreira.py
+ - python multiplicacao-GabrielBarboza.py
+ - python gerador-de-senhas.py
