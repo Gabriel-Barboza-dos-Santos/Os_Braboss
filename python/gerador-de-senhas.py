@@ -8,5 +8,6 @@ tam = tam_senhas()
 
 senhas = gerador_senhas(quant, tam)
 
+cabecalho("SAINDO...")
 
 
