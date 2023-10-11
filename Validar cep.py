@@ -16,4 +16,3 @@ if validar_cep(cep):
     print("CEP válido!")
 else:
      print("CEP inválido.")
-,,,,
