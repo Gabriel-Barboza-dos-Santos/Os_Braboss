@@ -25,4 +25,3 @@ if cpf_enviado_usuario == cpf_gerado_pelo_calculo:
     print(f'{cpf_enviado_usuario} é válido')
 else:
     print('CPF inválido')
-
