@@ -2,7 +2,7 @@ cpf_enviado_usuario = '74682489070'
 nove_digitos = cpf_enviado_usuario[:9]
 contador_regressivo_1 = 10
 
-resultado_digito_1 = 0
+resultado_digito = 0
 for digito in nove_digitos:
     resultado_digito_1 += int(digito) * contador_regressivo_1
     contador_regressivo_1 -= 1
