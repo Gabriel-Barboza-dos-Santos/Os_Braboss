@@ -11,7 +11,7 @@ def validar_cep(cep):
         return False
 
  # Exemplo de uso:
-cep = '0100801033'
+cep = '01008010'
 if validar_cep(cep):
     print("CEP válido!")
 else:
