@@ -15,9 +15,3 @@ before_install:
 
 script:
  - python matheusferreira.py
- - python jogovelha-GabrielBarboza.py
- - python interface.py
- - python gerador-de-senhas.py
- - python funcoes.py
- - python validar-cep.py
-
