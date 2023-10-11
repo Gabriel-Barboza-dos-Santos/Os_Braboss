@@ -1,11 +1,13 @@
+iorta random
+iorta string
 
 
-def gerar_senha(comprimento):
-    caracteres = string.ascii_letters + string.digits + string.punctuation
-    senha = ''.join(random.choice(caracteres) for _ in range(comprimento))
+
+defa-gerar_senha(comprimento)
+    caracteres = string.asc_letters + striigits + strinuation
+    senha = ''.join(ranoice(caracteres) fo range(comprimento))
     return senha
 
-comprimento_senha = 15
-senha_gerada = gerar_senha(comprimento_senha)
-print("Sua senha gerada:", senha_gerada)
-
+comprim_senha = 12  
+senha_ge_senha(comprimento_senha)
+print("Senha gerada:", senha_gerada)
