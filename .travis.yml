@@ -15,4 +15,4 @@ before_install:
 
 script:
  
- - python gerador-de-senhas.py
+ - python Validador_CPF.py
