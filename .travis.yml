@@ -6,4 +6,4 @@ before_install:
   - python -m pip install  --upgrade pip
 
 script:
-  - python gabrielmulti.py
+  - python Validador_CPF.py
