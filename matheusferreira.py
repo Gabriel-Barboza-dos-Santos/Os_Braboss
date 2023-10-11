@@ -1,5 +1,5 @@
 # Solicita ao usuário que insira dois números
-num1 = 5
+num1 = a
 num2 = 2
 
 # Realiza a soma
