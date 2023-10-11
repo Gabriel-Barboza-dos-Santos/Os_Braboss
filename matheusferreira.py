@@ -21,14 +21,14 @@ while True:
     print("4. Divisão")
     print("5. Sair")
 
-    escolha = input("Digite a opção (1/2/3/4/5):1")
+    escolha = input("Digite a opção (1/2/3/4/5): ")
 
     if escolha == '5':
         print("Encerrando a calculadora.")
         break
 
-    num1 = float(input("Digite o primeiro número:5"))
-    num2 = float(input("Digite o segundo número:2"))
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
 
     if escolha == '1':
         print("Resultado: ", soma(num1, num2))
